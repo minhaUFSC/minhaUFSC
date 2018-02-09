@@ -2,7 +2,7 @@
 	font: 50px Verdana, Geneva, sans-serif;
 	text-align: right;
 	position: relative;
-	top: 26%;
+	top: 42%;
 	height: 15%;
 	color: white;
 	width: 70%;
@@ -20,15 +20,6 @@
   margin: auto;
 }
 
-#U {
-	font: bold 12vh Verdana;
-	text-align: center;
-	position: relative;
-	top: 24%;
-  height: 18%;
-	color: white;
-	margin: 0;
-}
 
 #txt {
 	margin: 0;
